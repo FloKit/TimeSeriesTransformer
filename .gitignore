@@ -1,0 +1,6 @@
+.venv
+
+.python-version
+
+model_ckpts/*
+model_logs_tb/*
